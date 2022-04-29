@@ -1,0 +1,78 @@
+{
+  "itemId" : "_mtfDoN-aEemjOYrR55DFIA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_jlBhkONCEemLoJiXP1_iVg",
+    "parameterList" : [ {
+      "id" : "_SD9XMeNFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmCategory"
+    }, {
+      "id" : "_SD9XMONFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmCode"
+    }, {
+      "id" : "_SD9XM-NFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmDesc"
+    }, {
+      "id" : "_SD9XMuNFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmFeedName"
+    }, {
+      "id" : "_7dFbgONFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmKey"
+    }, {
+      "id" : "_jlKrgeNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmOID"
+    }, {
+      "id" : "_SD9XNONFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmSeverity"
+    }, {
+      "id" : "_jlKrguNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmTitle"
+    }, {
+      "id" : "_jlKrhONCEemLoJiXP1_iVg",
+      "name" : "ASSURE_clearedAlarmTableName"
+    }, {
+      "id" : "_jlKrg-NCEemLoJiXP1_iVg",
+      "name" : "ASSURE_ip"
+    }, {
+      "id" : "_UBN4oONGEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailSeverity"
+    }, {
+      "id" : "_jlKrh-NCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureCategory"
+    }, {
+      "id" : "_jlKriONCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureCode"
+    }, {
+      "id" : "_jlKrieNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureDesc"
+    }, {
+      "id" : "_jlKriuNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureFeedName"
+    }, {
+      "id" : "_jlKrheNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureSeverity"
+    }, {
+      "id" : "_aj67sCGDEeqIFrRyyyXrlQ",
+      "name" : "ASSURE_talend_Database"
+    }, {
+      "id" : "_aj67sSGDEeqIFrRyyyXrlQ",
+      "name" : "ASSURE_talend_DB_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_MzZ7MHV2EemeIclZ8Jq1VQ",
+    "parameterList" : [ {
+      "id" : "_b6WDYeLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_b6WDZuLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_Login"
+    }, {
+      "id" : "_b6WDZOLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_Password"
+    }, {
+      "id" : "_b6WDYuLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_Port"
+    } ]
+  } ]
+}
