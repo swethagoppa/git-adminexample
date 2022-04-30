@@ -1,0 +1,141 @@
+{
+  "itemId" : "_85nnsLPjEeuOPKNZqvV0SQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_jlBhkONCEemLoJiXP1_iVg",
+    "parameterList" : [ {
+      "id" : "_SD9XMeNFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmCategory"
+    }, {
+      "id" : "_SD9XMONFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmCode"
+    }, {
+      "id" : "_SD9XM-NFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmDesc"
+    }, {
+      "id" : "_SD9XMuNFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmFeedName"
+    }, {
+      "id" : "_7dFbgONFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmKey"
+    }, {
+      "id" : "_jlKrgeNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmOID"
+    }, {
+      "id" : "_SD9XNONFEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmSeverity"
+    }, {
+      "id" : "_jlKrguNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_alarmTitle"
+    }, {
+      "id" : "_jlKrhONCEemLoJiXP1_iVg",
+      "name" : "ASSURE_clearedAlarmTableName"
+    }, {
+      "id" : "_jlKrg-NCEemLoJiXP1_iVg",
+      "name" : "ASSURE_ip"
+    }, {
+      "id" : "_UBN4oONGEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailSeverity"
+    }, {
+      "id" : "_jlKrh-NCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureCategory"
+    }, {
+      "id" : "_jlKriONCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureCode"
+    }, {
+      "id" : "_jlKrieNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureDesc"
+    }, {
+      "id" : "_jlKriuNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureFeedName"
+    }, {
+      "id" : "_jlKrheNCEemLoJiXP1_iVg",
+      "name" : "ASSURE_jobFailureSeverity"
+    }, {
+      "id" : "_aj67sCGDEeqIFrRyyyXrlQ",
+      "name" : "ASSURE_talend_Database"
+    }, {
+      "id" : "_aj67sSGDEeqIFrRyyyXrlQ",
+      "name" : "ASSURE_talend_DB_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_q_DLcHcoEeWwx-BPSfiB2A",
+    "parameterList" : [ {
+      "id" : "_P_6soQHJEemzNssXVbi8GQ",
+      "name" : "ContextLoad_contextDirPath"
+    }, {
+      "id" : "_P_6sogHJEemzNssXVbi8GQ",
+      "name" : "ContextLoad_uuid"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_xjQnMLxZEeu2HdSWrG5Isw",
+    "parameterList" : [ {
+      "id" : "_xjtTJrxZEeu2HdSWrG5Isw",
+      "name" : "DORA_exchangeFolder"
+    }, {
+      "id" : "_GlvycLxuEeu2HdSWrG5Isw",
+      "name" : "DORA_issueType"
+    }, {
+      "id" : "_X6f4wbxjEeu2HdSWrG5Isw",
+      "name" : "DORA_jira_API_Password"
+    }, {
+      "id" : "_X6f4wLxjEeu2HdSWrG5Isw",
+      "name" : "DORA_jira_API_Username"
+    }, {
+      "id" : "_xjtTI7xZEeu2HdSWrG5Isw",
+      "name" : "DORA_maxResults"
+    }, {
+      "id" : "_xjtTJ7xZEeu2HdSWrG5Isw",
+      "name" : "DORA_output_ReportName"
+    }, {
+      "id" : "_xjtTJLxZEeu2HdSWrG5Isw",
+      "name" : "DORA_projectList_Config"
+    }, {
+      "id" : "_5gzTQLxeEeu2HdSWrG5Isw",
+      "name" : "DORA_proxy_Host"
+    }, {
+      "id" : "_5gzTQbxeEeu2HdSWrG5Isw",
+      "name" : "DORA_proxy_Port"
+    }, {
+      "id" : "_GbCg0O-_EeuMM_6kfp_nsQ",
+      "name" : "DORA_storyART_ReportName"
+    }, {
+      "id" : "_xjtTIrxZEeu2HdSWrG5Isw",
+      "name" : "DORA_storyDetail_API"
+    }, {
+      "id" : "_xjtTIbxZEeu2HdSWrG5Isw",
+      "name" : "DORA_storyList_API"
+    }, {
+      "id" : "_xjtTJbxZEeu2HdSWrG5Isw",
+      "name" : "DORA_tempFolder"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_aq01EHiTEeWamtFcrjM2zg",
+    "parameterList" : [ {
+      "id" : "_Qj7YogHJEemzNssXVbi8GQ",
+      "name" : "LOGGING_errorLogURL"
+    }, {
+      "id" : "_Qj7YoQHJEemzNssXVbi8GQ",
+      "name" : "LOGGING_processLogURL"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_MzZ7MHV2EemeIclZ8Jq1VQ",
+    "parameterList" : [ {
+      "id" : "_b6WDYeLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_AdditionalParams"
+    }, {
+      "id" : "_b6WDZuLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_Login"
+    }, {
+      "id" : "_b6WDZOLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_Password"
+    }, {
+      "id" : "_b6WDYuLKEemVGvwSPwQf-A",
+      "name" : "MYSQL_DB_CONNECTION_Port"
+    } ]
+  } ]
+}
