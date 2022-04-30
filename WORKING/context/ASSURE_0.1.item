@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_jlKrgONCEemLoJiXP1_iVg" xmi:version="2.0">
+  <contextParameter comment="" name="ASSURE_alarmOID" prompt="ASSURE_alarmOID?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKrgeNCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_alarmTitle" prompt="ASSURE_alarmTitle?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKrguNCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_ip" prompt="ASSURE_ip?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKrg-NCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_clearedAlarmTableName" prompt="ASSURE_clearedAlarmTableName?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKrhONCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_jobFailureSeverity" prompt="ASSURE_jobFailureSeverity?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKrheNCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_jobFailureCategory" prompt="ASSURE_jobFailureCategory?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKrh-NCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_jobFailureCode" prompt="ASSURE_jobFailureCode?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKriONCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_jobFailureDesc" prompt="ASSURE_jobFailureDesc?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKrieNCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_jobFailureFeedName" prompt="ASSURE_jobFailureFeedName?" promptNeeded="false" type="id_String" value="" xmi:id="_jlKriuNCEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_alarmCode" prompt="ASSURE_alarmCode?" promptNeeded="false" type="id_String" value="" xmi:id="_SD9XMONFEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_alarmCategory" prompt="ASSURE_alarmCategory?" promptNeeded="false" type="id_String" value="" xmi:id="_SD9XMeNFEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_alarmFeedName" prompt="ASSURE_alarmFeedName?" promptNeeded="false" type="id_String" value="" xmi:id="_SD9XMuNFEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_alarmDesc" prompt="ASSURE_alarmDesc?" promptNeeded="false" type="id_String" value="" xmi:id="_SD9XM-NFEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_alarmSeverity" prompt="ASSURE_alarmSeverity?" promptNeeded="false" type="id_String" value="" xmi:id="_SD9XNONFEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_alarmKey" prompt="ASSURE_alarmKey?" promptNeeded="false" type="id_String" value="" xmi:id="_7dFbgONFEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_jobFailSeverity" prompt="ASSURE_jobFailSeverity?" promptNeeded="false" type="id_String" value="" xmi:id="_UBN4oONGEemLoJiXP1_iVg"/>
+  <contextParameter comment="" name="ASSURE_talend_Database" prompt="ASSURE_talend_Database?" promptNeeded="false" type="id_String" value="" xmi:id="_aj67sCGDEeqIFrRyyyXrlQ"/>
+  <contextParameter comment="" name="ASSURE_talend_DB_Server" prompt="ASSURE_talend_DB_Server?" promptNeeded="false" type="id_String" value="" xmi:id="_aj67sSGDEeqIFrRyyyXrlQ"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_8ec19f2d-2921-45e2-a284-e17df9651a7d"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>gwJXliCYlVUF2exzxleOPfVUPU8CRIMzNwKYmlLC+5kZDrij5QjpQKFArWi+x2DxU8B5Aygu7tCi&#13;
+PALnBF4NVg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_bdc62c2e-b51f-4297-8e69-c10b3d4b5d97"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>g/z9XyHQXdRl5mQk1k4cCCPvtUE61KwOy7M8c7lClAZsO0KnIyEaX0KuIxca8abCmXMWRfPz8irF&#13;
+W2BbDqlTzA==</DigestValue></Reference></SignedInfo><SignatureValue>KCKhBpSWDp0Cl/7f8GqMtvY/RJ119EAlP3n9CDgTSXKB+nPfv5wCF+9mmt7vQzTZbQG7N3MXSCii&#13;
+T/rdjtJQB+6ZL+Wd8QWjMIEjWBjTLR8bQZ6+ii6bZOpoX1OeOb4OxO0I1CGwRUL/Rou0Nte3LORZ&#13;
+j42vdfF4U8R9bRoGVIkt1Omqy8q6D9qVwl1q4uuFpczAEffFeXM8+VtygMXPcb+njsWQ3tJ7MgUS&#13;
+0f+iwj4xdlSqXc3Q4q81hsKs6VR+/b5BEo0ciWOHFQDNbLVgQ7atRYxHQ/PchtNbBkFc0j1WlvJt&#13;
+mzwpVCbhZ7d2ta85xPUM/4iG/ls9XzW1J6Q60g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_bdc62c2e-b51f-4297-8e69-c10b3d4b5d97" Target="#_8ec19f2d-2921-45e2-a284-e17df9651a7d"><Timestamp>2022-04-30 06:41:39</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>
