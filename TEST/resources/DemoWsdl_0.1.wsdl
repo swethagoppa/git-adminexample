@@ -24,8 +24,7 @@
 		</xsd:schema>
 	</wsdl:types>
 
-	<wsdl:portType name="RouteResourcePortType">
-		<wsdl:operation name="RouteResourceDemoOperation">
+	<wsdl:portType name="RouteResourcePortType"
 		</wsdl:operation>
 	</wsdl:portType>
 	
