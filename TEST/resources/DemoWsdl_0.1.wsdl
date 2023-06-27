@@ -27,7 +27,6 @@
 	<wsdl:portType name="RouteResourcePortType">
 		<wsdl:operation name="RouteResourceDemoOperation">
 			<wsdl:input message="tns:RouteResourceDemoOperationRequest"></wsdl:input>
-			<wsdl:output message="tns:RouteResourceDemoOperationResponse"></wsdl:output>
 		</wsdl:operation>
 	</wsdl:portType>
 	
