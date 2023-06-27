@@ -8,7 +8,6 @@
 
 	<wsdl:types>
 			targetNamespace="http://www.talend.org/service/">
-			<xsd:element name="RouteResourceDemoOperationRequest">
 				<xsd:complexType>
 					<xsd:sequence>
 						<xsd:element name="in" type="xsd:string"></xsd:element>
