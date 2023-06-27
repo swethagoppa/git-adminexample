@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<wsdl:definitions name="RouteResourceDemo"
+<wsdl:definitions name="RouteResource"
 		xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
 		xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
 		xmlns:xsd="http://www.w3.org/2001/XMLSchema"
@@ -16,7 +16,7 @@
 					</xsd:sequence>
 				</xsd:complexType>
 			</xsd:element>
-			<xsd:element name="RouteResourceDemoOperationResponse">
+			<xsd:element name="RouteResourceOperationResponse">
 				<xsd:complexType>
 					<xsd:sequence>
 						<xsd:element name="out" type="xsd:string"></xsd:element>
@@ -26,14 +26,14 @@
 		</xsd:schema>
 	</wsdl:types>
 
-	<wsdl:message name="RouteResourceDemoOperationRequest">
+	<wsdl:message name="RouteResourceOperationRequest">
 		<wsdl:part name="parameters" element="tns:RouteResourceDemoOperationRequest"></wsdl:part>
 	</wsdl:message>
-	<wsdl:message name="RouteResourceDemoOperationResponse">
+	<wsdl:message name="RouteResourceOperationResponse">
 		<wsdl:part name="parameters" element="tns:RouteResourceDemoOperationResponse"></wsdl:part>
 	</wsdl:message>
 
-	<wsdl:portType name="RouteResourceDemoPortType">
+	<wsdl:portType name="RouteResourcePortType">
 		<wsdl:operation name="RouteResourceDemoOperation">
 			<wsdl:input message="tns:RouteResourceDemoOperationRequest"></wsdl:input>
 			<wsdl:output message="tns:RouteResourceDemoOperationResponse"></wsdl:output>
@@ -53,10 +53,10 @@
 		</wsdl:operation>
 	</wsdl:binding>
 
-	<wsdl:service name="RouteResourceDemo">
+	<wsdl:service name="RouteResource">
 		<wsdl:port name="RouteResourceDemoPort" binding="tns:RouteResourceDemoBinding">
 			<soap:address location="http://localhost:8090/services/RouteResourceDemo" />
 		</wsdl:port>
 	</wsdl:service>
 </wsdl:definitions>
-</wsdl:definitions>
+
