@@ -26,9 +26,6 @@
 		</xsd:schema>
 	</wsdl:types>
 
-	<wsdl:message name="RouteResourceOperationRequest">
-		<wsdl:part name="parameters" element="tns:RouteResourceDemoOperationRequest"></wsdl:part>
-	</wsdl:message>
 	<wsdl:message name="RouteResourceOperationResponse">
 		<wsdl:part name="parameters" element="tns:RouteResourceDemoOperationResponse"></wsdl:part>
 	</wsdl:message>
