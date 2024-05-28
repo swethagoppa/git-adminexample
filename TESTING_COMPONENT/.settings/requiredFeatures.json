@@ -90,6 +90,8 @@
   }, {
     "id" : "org.talend.lite.di.wsdl.feature.feature.group"
   }, {
+    "id" : "org.talend.lite.dq.feature.feature.group"
+  }, {
     "id" : "org.talend.lite.metadata.bridge.feature.feature.group"
   }, {
     "id" : "org.talend.lite.tdm.core.feature.feature.group"
