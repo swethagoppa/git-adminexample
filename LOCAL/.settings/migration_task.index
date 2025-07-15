@@ -125,6 +125,11 @@
     "version" : "7.3.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.designer.dataprep.migration.ExcludeTechnicalColumnsMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.designer.dbmap.migration.DBMapSplitTableConstraintFiltersMigrationTask",
     "breaks" : "5.1.2",
     "version" : "5.6.0",
@@ -144,6 +149,16 @@
     "breaks" : "8.0.1",
     "version" : "8.0.1",
     "status" : "noimpact"
+  }, {
+    "id" : "org.talend.designer.esb.webservice.ConsumerFaultResponseMigrationTask",
+    "breaks" : "5.1.1",
+    "version" : "5.1.2",
+    "status" : "ok"
+  }, {
+    "id" : "org.talend.designer.esb.webservice.migration.ReplaceDefaultProxyIPMigrationTask",
+    "breaks" : "7.3.0",
+    "version" : "7.3.1",
+    "status" : "ok"
   }, {
     "id" : "org.talend.designer.joblet.repository.migration.ResetJobletComponentNameMigrationTask",
     "breaks" : "6.3.0",
@@ -1379,6 +1394,11 @@
     "version" : "5.1.2",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.FixProjectResourceLink",
+    "breaks" : "5.1.1",
+    "version" : "5.1.2",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.FixUnevenItemContextParametersMigrationTask",
     "breaks" : "6.1.0",
     "version" : "6.4.0",
@@ -2363,6 +2383,21 @@
     "id" : "org.talend.repository.model.migration.upgradetRunJobRemoveQuotesMigrationTask",
     "breaks" : "5.1.1",
     "version" : "5.1.2",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.nosql.repository.migration.ChangeMongoDBConnectionMinimalVersionMigrationTask",
+    "breaks" : "6.0.0",
+    "version" : "6.0.0",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.nosql.repository.migration.FixCassandraDataStaxDbtypesProblemMigrationTask",
+    "breaks" : "6.0.1",
+    "version" : "6.1.0",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.nosql.repository.migration.UnifyPasswordEncryption4NoSQLConnectionMigrationTask",
+    "breaks" : "5.6.0",
+    "version" : "5.6.0",
     "status" : "noimpact"
   }, {
     "id" : "org.talend.repository.renametFileInputCSV",
